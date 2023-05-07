@@ -1,13 +1,27 @@
-unzip this file after download it or clone it directly from repository
+# V1
 
-enter to the file named "Boutique", you will find two directories for frontend and backend,you should here open with your favorite IDE
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
-enter the command "npm install" in frontend directory and same for backend directory
+## Development server
 
-enter the command "node server.js" to run the backend server i.e. node server
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-enter the command "npm start" to run the frontend after going to frontend directory
+## Code scaffolding
 
-finally , the application full stack works fine
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-congrats !!!
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
